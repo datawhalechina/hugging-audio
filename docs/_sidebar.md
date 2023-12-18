@@ -13,3 +13,4 @@
     - [2.1 语音应用概览](chapter2/tour_of_audio_applications.md)
     - [2.2 音频分类流水线](chapter2/audio_classification_with_a_pipeline.md)
     - [2.3 自动语音识别流水线](chapter2/automatic_speech_recognition_with_a_pipeline.md)
+    - [2.4 音频生成流水线](chapter2/automatic_speech_recognition_with_a_pipeline.md)
