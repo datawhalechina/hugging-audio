@@ -1,8 +1,15 @@
-- 第1章 [我是第1章的标题](chapter1/chapter1)
-- 第2章 我是第2章的标题
-    - [2.1 我是2.1的标题](chapter2/chapter2_1)
-    - [2.2 我是2.2的标题](chapter2/chapter2_2)
-- 第3章 我是第3章的标题
-    - 3.1 我是3.1的标题
-        - 3.1.1 [我是3.1.1的标题](chapter3/chapter3_1/chapter3_1_1)
-        - 3.1.2 [我是3.1.2的标题](chapter3/chapter3_1/chapter3_1_2)
+- [目录](README.md)
+- 第0章 欢迎来到课程
+    - [0.1 对课程的期待](chapter0/what_to_expect_from_the_course.md)
+- 第1章 使用语音数据
+    - [1.1 你将学到什么](chapter1/what_you'll_learn.md)
+    - [1.2 语音数据介绍](chapter1/introduction_to_audio_data.md)
+    - [1.3 加载和探索音频数据集](chapter1/load_and_explore_an_audio_dataset.md)
+    - [1.4 预处理语音数据](chapter1/preprocessing_audio_data.md)
+    - [1.5 流式化语音数据](chapter1/streaming_audio_data.md)
+    - [1.6 测验](chapter1/quiz.md)
+    - [1.7 补充阅读和材料](chapter1/supplemental_reading_and_resources.md)
+- 第2章 语音应用入门
+    - [2.1 语音应用概览](chapter2/tour_of_audio_applications.md)
+    - [2.2 音频分类流水线](chapter2/audio_classification_with_a_pipeline.md)
+    - [2.3 自动语音识别流水线](chapter2/automatic_speech_recognition_with_a_pipeline.md)
