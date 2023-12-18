@@ -3,7 +3,7 @@
 
 在本节中，我们将使用`automatic-speech-recognition`流水线转录一段录音，录音内容是一个人询问有关支付账单的问题，使用的数据集与之前的 MINDS-14 相同。
 
-要开始使用，请加载数据集，并按照 "[使用流水线进行音频分类](./audio_classification_with_a_pipeline.md)"中的描述将其升频至 16kHz（如果您还没有这样做的话）。
+要开始使用，请加载数据集，并按照 "[使用流水线进行音频分类](chapter2/audio_classification_with_a_pipeline.md)"中的描述将其升频至 16kHz（如果您还没有这样做的话）。
 
 要转录录音，我们可以使用 Hugging Face `Transformers` 中的自动语音识别流水线。让我们实例化流水线：
 
