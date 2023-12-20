@@ -15,3 +15,5 @@
     - [2.3 自动语音识别流水线](chapter2/automatic_speech_recognition_with_a_pipeline.md)
     - [2.4 音频生成流水线](chapter2/audio_generation_with_a_pipeline.md)
     - [2.5 动手实践](chapter2/hands_on_exercise.md)
+- 第3章 语音Transformer架构
+    - [3.1 Transformer回顾](chapter3/refresher_on_transformer_models.md)
