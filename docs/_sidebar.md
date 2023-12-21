@@ -17,3 +17,4 @@
     - [2.5 动手实践](chapter2/hands_on_exercise.md)
 - 第3章 语音Transformer架构
     - [3.1 Transformer回顾](chapter3/refresher_on_transformer_models.md)
+    - [3.2 CTC架构](chapter3/CTC_architectures.md)
