@@ -18,3 +18,4 @@
 - 第3章 语音Transformer架构
     - [3.1 Transformer回顾](chapter3/refresher_on_transformer_models.md)
     - [3.2 CTC架构](chapter3/CTC_architectures.md)
+    - [3.3 Seq2Seq架构](chapter3/Seq2Seq_architectures.md)
