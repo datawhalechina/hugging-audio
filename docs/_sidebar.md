@@ -20,3 +20,4 @@
     - [3.2 CTC架构](chapter3/CTC_architectures.md)
     - [3.3 Seq2Seq架构](chapter3/Seq2Seq_architectures.md)
     - [3.4 语音分类架构](chapter3/audio_classification_architectures.md)
+    - [3.5 小测](chapter3/quiz.md)
