@@ -21,3 +21,4 @@
     - [3.3 Seq2Seq架构](chapter3/Seq2Seq_architectures.md)
     - [3.4 语音分类架构](chapter3/audio_classification_architectures.md)
     - [3.5 小测](chapter3/quiz.md)
+    - [3.6 补充阅读和材料](chapter3/supplemental_reading_and_resources.md)
