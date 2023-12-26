@@ -22,3 +22,6 @@
     - [3.4 语音分类架构](chapter3/audio_classification_architectures.md)
     - [3.5 小测](chapter3/quiz.md)
     - [3.6 补充阅读和材料](chapter3/supplemental_reading_and_resources.md)
+
++ 第4章 构建音乐流派分类器
+  + [4.1 你将学到和构建什么](chapter4/what_you'll_learn_and_what_you'll_build.md)
