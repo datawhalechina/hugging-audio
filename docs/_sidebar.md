@@ -25,3 +25,4 @@
 
 + 第4章 构建音乐流派分类器
   + [4.1 你将学到和构建什么](chapter4/what_you'll_learn_and_what_you'll_build.md)
+  + [4.2 音频分类预训练模型](chapter4/pre-trained_models_for_audio_classification.md)
