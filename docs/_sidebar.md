@@ -27,3 +27,4 @@
   + [4.1 你将学到和构建什么](chapter4/what_you'll_learn_and_what_you'll_build.md)
   + [4.2 音频分类预训练模型](chapter4/pre-trained_models_for_audio_classification.md)
   + [4.3 微调音乐分类模型](chapter4/fine-tuning_a_model_for_music_classification.md)
+  + [4.4 使用Gradio构建demo](chapter4/build_a_demo_with_gradio.md)
