@@ -29,3 +29,5 @@
   + [4.3 微调音乐分类模型](chapter4/fine-tuning_a_model_for_music_classification.md)
   + [4.4 使用Gradio构建demo](chapter4/build_a_demo_with_gradio.md)
   + [4.5 动手实践](chapter4/hands_on_exercise.md)
++ 第5章 自动语音识别
+  + [5.1 你将学到和构建什么](chapter5/what_you'll_learn_and_what_you'll_build.md)
