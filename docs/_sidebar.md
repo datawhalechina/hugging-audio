@@ -32,3 +32,4 @@
 + 第5章 自动语音识别
   + [5.1 你将学到和构建什么](chapter5/what_you'll_learn_and_what_you'll_build.md)
   + [5.2 语音识别预训练模型](chapter5/pre-trained_models_for_speech_recognition.md)
+  + [5.3 选择数据集](chapter5/choosing_a_dataset.md)
