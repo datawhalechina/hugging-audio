@@ -122,7 +122,7 @@ $$
 
 如果我们在带有标点符号和大小写的数据上训练 ASR 模型，它将学会在转录中预测大小写和标点符号。当我们想将模型用于实际的语音识别应用（如转录会议内容或口述内容）时，这就非常好，因为预测的转录内容将完全符合大小写和标点符号的格式，这种风格被称为*正字法*。
 
-不过，我们也可以选择对数据集进行标准化处理，以去除任何大小写和标点符号。对数据集进行标准化处理可使语音识别任务变得更容易：模型不再需要区分大小写字符，也不必仅从音频数据中预测标点符号（例如，分号发出什么声音？） 正因为如此，单词错误率自然会降低（这意味着结果会更好）。Whisper 论文证明了规范化转录对 WER 结果的巨大影响（参见 [Whisper](https://cdn.openai.com/papers/whisper.pdf) 论文的第 4.4 节）。虽然我们得到了较低的 WER，但该模型并不一定更适合生产。由于缺少大小写和标点符号，模型预测的文本明显难以阅读。以[上一节](chapter5/asr_models)中的例子为例(，我们在 LibriSpeech 数据集中的同一音频样本上运行了 Wav2Vec2 和 Whisper。Wav2Vec2 模型既不能预测标点符号，也不能预测大小写，而 Whisper 则能预测两者。并排比较这两种转录，我们发现 Whisper 的转录更容易阅读：
+不过，我们也可以选择对数据集进行标准化处理，以去除任何大小写和标点符号。对数据集进行标准化处理可使语音识别任务变得更容易：模型不再需要区分大小写字符，也不必仅从音频数据中预测标点符号（例如，分号发出什么声音？） 正因为如此，单词错误率自然会降低（这意味着结果会更好）。Whisper 论文证明了规范化转录对 WER 结果的巨大影响（参见 [Whisper](https://cdn.openai.com/papers/whisper.pdf) 论文的第 4.4 节）。虽然我们得到了较低的 WER，但该模型并不一定更适合生产。由于缺少大小写和标点符号，模型预测的文本明显难以阅读。以[上一节](chapter5/pre-trained_models_for_speech_recognition.md)中的例子为例(，我们在 LibriSpeech 数据集中的同一音频样本上运行了 Wav2Vec2 和 Whisper。Wav2Vec2 模型既不能预测标点符号，也不能预测大小写，而 Whisper 则能预测两者。并排比较这两种转录，我们发现 Whisper 的转录更容易阅读：
 
 ```python
 Wav2Vec2:  HE TELLS US THAT AT THIS FESTIVE SEASON OF THE YEAR WITH CHRISTMAUS AND ROSE BEEF LOOMING BEFORE US SIMALYIS DRAWN FROM EATING AND ITS RESULTS OCCUR MOST READILY TO THE MIND
