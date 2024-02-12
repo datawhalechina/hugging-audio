@@ -36,3 +36,4 @@
   + [5.4 语音识别评估和指标](chapter5/evaluation_and_metrics_for_speech_recognition.md)
   + [5.5 使用Trainer API微调自动语音识别系统](chapter5/how_to_fine-tune_an_asr_system_with_the_trainer_api.md)
   + [5.6 构建demo](chapter5/building_a_demo.md)
+  + [5.7 动手实践](chapter5/hands-on-exercise.md)
