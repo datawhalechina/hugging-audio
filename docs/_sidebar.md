@@ -38,3 +38,5 @@
   + [5.6 构建demo](chapter5/building_a_demo.md)
   + [5.7 动手实践](chapter5/hands-on-exercise.md)
   + [5.8 补充阅读和材料](chapter5/supplemental_reading_and_resources.md)
++ 第6章 文本-语音
+  + [6.1 你将学到和构建什么](chapter6/what_you'll_learn_and_what_you'll_build.md)
