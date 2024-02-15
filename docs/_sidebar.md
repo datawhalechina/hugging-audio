@@ -40,3 +40,4 @@
   + [5.8 补充阅读和材料](chapter5/supplemental_reading_and_resources.md)
 + 第6章 文本-语音
   + [6.1 你将学到和构建什么](chapter6/what_you'll_learn_and_what_you'll_build.md)
+  + [6.2 文本-语音数据集](chapter6/text_to_speech_datasets.md)
