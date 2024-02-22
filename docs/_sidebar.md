@@ -42,3 +42,4 @@
   + [6.1 你将学到和构建什么](chapter6/what_you'll_learn_and_what_you'll_build.md)
   + [6.2 文本-语音数据集](chapter6/text_to_speech_datasets.md)
   + [6.3 文本-语音预训练模型](chapter6/pre_trained_models_for_text_to_speech.md)
+  + [6.4 微调SpeechT5](chapter6/fine_tuning_speecht5.md)
