@@ -44,3 +44,4 @@
   + [6.3 文本-语音预训练模型](chapter6/pre_trained_models_for_text_to_speech.md)
   + [6.4 微调SpeechT5](chapter6/fine_tuning_speecht5.md)
   + [6.5 评估文本-语音模型](chapter6/evaluating_text_to_speech_models.md)
+  + [6.6 动手实践](chapter6/hands_on_exercise.md)
