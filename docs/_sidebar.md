@@ -45,3 +45,4 @@
   + [6.4 微调SpeechT5](chapter6/fine_tuning_speecht5.md)
   + [6.5 评估文本-语音模型](chapter6/evaluating_text_to_speech_models.md)
   + [6.6 动手实践](chapter6/hands_on_exercise.md)
+  + [6.7 补充阅读和材料](chapter6/supplemental_reading_and_resources.md)
