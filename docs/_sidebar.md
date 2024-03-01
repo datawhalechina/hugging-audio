@@ -46,3 +46,5 @@
   + [6.5 评估文本-语音模型](chapter6/evaluating_text_to_speech_models.md)
   + [6.6 动手实践](chapter6/hands_on_exercise.md)
   + [6.7 补充阅读和材料](chapter6/supplemental_reading_and_resources.md)
++ 第7章 组合语音与文本
+  + [7.1 你将学到和构建什么](chapter7/what_you'll_learn_and_what_you'll_build.md)
