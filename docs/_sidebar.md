@@ -48,3 +48,5 @@
   + [6.7 补充阅读和材料](chapter6/supplemental_reading_and_resources.md)
 + 第7章 组合语音与文本
   + [7.1 你将学到和构建什么](chapter7/what_you'll_learn_and_what_you'll_build.md)
+  + [7.2 语音-语音翻译](chapter7/speech_to_speech_translation.md)
+  + [7.3 创建语音助手](chapter7/creating_a_voice_assistant.md)
